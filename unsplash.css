@@ -41,8 +41,7 @@ span{
 }
 
 #container img:hover{
-    max-width:23rem;
-    max-height:22rem;
+    border-radius:2%;
     transition: all 0.4s;
     
 }
